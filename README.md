@@ -1,6 +1,6 @@
 # ITHIRE
 
-> Social network for developers
+> Product DashBoard
 
 # Quick Start 🚀
 
